@@ -1,0 +1,19 @@
+{
+  "name": "pangolin-project",
+  "version": "1.0.0",
+  "description": "blockchain tool for building zero knowledge applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoluBolarinwa/Pangolin.git"
+  },
+  "author": "Lolu Bolarinwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoluBolarinwa/Pangolin/issues"
+  },
+  "homepage": "https://github.com/LoluBolarinwa/Pangolin#readme"
+}
