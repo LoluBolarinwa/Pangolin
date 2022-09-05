@@ -13,6 +13,7 @@ body{
     font-family: "Karla", sans-serif;
     /* font-family: "Work Sans", sans-serif; */
     font-family: "Segoe UI", sans-serif;
+    /* background-color: aqua; */
     margin: 0;
     padding: 0;
 }
@@ -93,6 +94,12 @@ li a {
 }
 
 
+svg{
+    /* fill: aqua; */
+
+}
+
+
 
 .bigbox2{
     /* display: flex; */
@@ -131,3 +138,4 @@ li a {
     /* background-color:brown; */
     margin: 0 auto;
 }
+
