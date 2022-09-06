@@ -108,7 +108,7 @@ svg{
     height: 100vh;
     /* background-color:yellow; */
     margin: 10px auto;
-    padding-top: 2rem;
+    /* padding-top: 2rem; */
 }
 
 .innerbox2{
@@ -139,3 +139,10 @@ svg{
     margin: 0 auto;
 }
 
+.sponsorDiv{
+    width: 90vw;
+    height: 100vh;
+    /* background-color:purple; */
+    margin: 10px auto;
+    padding-top: 2rem;   
+}
