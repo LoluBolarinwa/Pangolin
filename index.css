@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* outline: 1px solid limegreen !important; */
+    color: #fff;
+    outline: 1px solid limegreen !important;
+
 }
 
 html{
@@ -16,6 +18,17 @@ body{
     /* background-color: aqua; */
     margin: 0;
     padding: 0;
+    
+
+
+    background-image: url("svg\ files/background.svg");
+    background-color: #595a5b9b;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: fit-content;
+    /* width: 100vw; */
+    background-position: center;    /* for responsive layout*/    
 }
 
 /* .navbar */
@@ -30,7 +43,7 @@ nav{
     justify-content: space-between;
     align-items:center;
     padding-right: 100px;
-    background-color: rgb(13, 139, 229);
+    background-color: #0d8be5;
 }
 
 li:first-child{
@@ -53,7 +66,7 @@ li a {
     text-decoration: none;
     /* padding: 1px 10px; */
     margin: 1px 25px;
-    color: rgb(0, 255, 170);
+    /* color: rgb(0, 255, 170); */
 
 }
 
