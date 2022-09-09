@@ -16,15 +16,15 @@ body{
     /* font-family: "Work Sans", sans-serif; */
     font-family: "Segoe UI", sans-serif;
     /* background-color: aqua; */
-    background: rgb(177,175,175);
-background: linear-gradient(341deg, rgba(177,175,175,1) 2%, rgba(110,108,109,1) 67%);
+    /* background: rgb(177,175,175); */
+/* background: linear-gradient(341deg, rgba(177,175,175,1) 2%, rgba(110,108,109,1) 67%); */
     margin: 0;
     padding: 0;
     
 
 
-    /* background-image: url("svg\ files/background.svg"); */
-    background-color: #595a5b9b;
+    background-image: url("svg\ files/poddle.svg");
+    /* background-color: #595a5b9b; */
 
     background-repeat: no-repeat;
     background-size: cover;
