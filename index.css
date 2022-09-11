@@ -23,7 +23,7 @@ body{
     
 
 
-    background-image: url("svg\ files/poddle.svg");
+    /* background-image: url("svg\ files/poddle.svg"); */
     /* background-color: #595a5b9b; */
 
     background-repeat: no-repeat;
@@ -45,8 +45,11 @@ nav{
     justify-content: space-between;
     align-items:center;
     padding-right: 100px;
-    background-color: #0d8be5;
-    background-color: #b84cfb;
+    background-color: #dba5fc;
+    background-color: #fff;
+    outline: none;
+    box-shadow: none;
+    border-bottom-width: 0.1px;
 }
 
 li:first-child{
@@ -73,7 +76,22 @@ li a {
 
 }
 
+svg .a{
+    /* fill: #dba5fc; */
+    position: absolute;
+    top: 0;
+    /* z-index: -1; */
+}
+svg .v{
+    fill: #b84cfb;
+}
+
 .bigbox{
+    
+    /* background-size: cover; */
+    /* height: fit-content; */
+
+
     /* display: flex; */
     /* position: absolute;  */
     width: 90vw;
@@ -108,6 +126,8 @@ li a {
 }
 
 .svgbox{
+    background-image: url("svg\ files/poddle.svg");
+    background-repeat: no-repeat;
     position:relative;
     right: 70px;
     flex: 2;
