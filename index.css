@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #2e0d43;
-    /* outline: 1px solid limegreen !important; */
+    /* color: #470f6a; */
+    outline: 1px solid limegreen !important;
 
 }
 
@@ -15,6 +15,7 @@ body{
     font-family: "Karla", sans-serif;
     /* font-family: "Work Sans", sans-serif; */
     font-family: "Segoe UI", sans-serif;
+    color: #470f6a;
     /* background-color: aqua; */
     /* background: rgb(177,175,175); */
 /* background: linear-gradient(341deg, rgba(177,175,175,1) 2%, rgba(110,108,109,1) 67%); */
@@ -47,6 +48,8 @@ nav{
     padding-right: 100px;
     background-color: #dba5fc;
     background-color: #fff;
+    background-color: #45016f;
+    color: #fff;
     outline: none;
     box-shadow: none;
     border-bottom-width: 0.1px;
@@ -72,8 +75,8 @@ li a {
     text-decoration: none;
     /* padding: 1px 10px; */
     margin: 1px 25px;
+    color: #fff;
     /* color: rgb(0, 255, 170); */
-
 }
 
 svg .a{
@@ -188,3 +191,4 @@ svg{
     margin: 10px auto;
     padding-top: 2rem;   
 }
+
