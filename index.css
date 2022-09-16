@@ -148,11 +148,11 @@ letter-spacing: 2px;
 line-height: 1.3;
 transition: transform 200ms,background 200ms;
 /* background: transparent; */
-background-color: #45016f;
+background-color: #ac29fe;
 
 color: #fff;
 /* color: #000000; */
-box-shadow: 0 0 0 3px #45016f inset;
+box-shadow: 0 0 0 3px #ac29fe inset;
 }
 
 button:hover{
