@@ -220,6 +220,18 @@ svg{
     margin: 0 auto;
 }
 
+.bigger-tools{
+    width: 90vw;
+    height: 70vh;
+    background-color:yellow;
+    margin: 10px auto;
+    /* padding-top: 2rem; */
+}
+
+.inner-tools{
+    
+}
+
 .sponsorDiv{
     width: 90vw;
     height: 100vh;
