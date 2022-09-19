@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #470f6a; */
-    /* outline: 1px solid limegreen !important; */
+    outline: 1px solid limegreen !important;
 
 }
 
@@ -81,6 +81,18 @@ li a {
     /* color: rgb(0, 255, 170); */
 }
 
+.parentIntro{
+    width: 90vw;
+    height: 15vh;
+    background-color:yellow;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.pangolionintro{
+    margin: 0 auto;
+}
+
 .bigbox{
     
     /* background-size: cover; */
@@ -91,7 +103,7 @@ li a {
     /* position: absolute;  */
     width: 90vw;
     height: 85vh;
-    /* background-color:yellow; */
+    /* background-color:greenyellow; */
     margin: 0 auto;
     padding-top: 2rem;
 }
