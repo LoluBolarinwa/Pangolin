@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #470f6a; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -57,6 +57,15 @@ nav{
     border-bottom-width: 0.1px;
 }
 
+nav .logo{
+    /* font-family: 'Gruppo', cursive; */
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.3rem;
+    letter-spacing: 3px;
+    font-weight: 400;
+    cursor: pointer;
+}
+
 li:first-child{
     /* align-items: flex-start; */
     /* padding: 5px 0 0; */
@@ -83,13 +92,13 @@ li a {
 
 .parentIntro{
     width: 90vw;
-    height: 15vh;
+    height: 7vh;
     /* background-color:yellow; */
     margin: 0 auto;
     display: flex;
     align-items:center;
     justify-content: center;
-    /* padding-top: auto; */
+    margin-top: 2rem;
 }
 
 .pangolionintro{
@@ -101,7 +110,11 @@ li a {
     text-align: center;
     justify-content: center;
     width: 50%;
-    height: 50%;
+    height: 100%;
+}
+
+.pangolin{
+    color: #ac29fe;
 }
 
 .bigbox{
@@ -154,6 +167,8 @@ li a {
 }
 
 .textbox h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     margin-top: 2rem;
 }
 
