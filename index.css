@@ -86,11 +86,17 @@ li a {
     height: 15vh;
     background-color:yellow;
     margin: 0 auto;
-    padding-top: 2rem;
+    /* padding-top: auto; */
 }
 
 .pangolionintro{
+    display: flex;
+    align-items:center;
+    text-align: center;
+    width: 50%;
+    height: 50%;
     margin: 0 auto;
+    /* justify-content: center; */
 }
 
 .bigbox{
