@@ -84,19 +84,24 @@ li a {
 .parentIntro{
     width: 90vw;
     height: 15vh;
-    background-color:yellow;
+    /* background-color:yellow; */
     margin: 0 auto;
+    display: flex;
+    align-items:center;
+    justify-content: center;
     /* padding-top: auto; */
 }
 
 .pangolionintro{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
     display: flex;
     align-items:center;
     text-align: center;
+    justify-content: center;
     width: 50%;
     height: 50%;
-    margin: 0 auto;
-    /* justify-content: center; */
 }
 
 .bigbox{
@@ -134,9 +139,9 @@ li a {
     margin: 0 auto;
 }
 .textbox h1{    
-    font-family: Graphik Web,Arial,Helvetica,sans-serif;
+    /* font-family: Graphik Web,Arial,Helvetica,sans-serif; */
     /* font-family: 'Josefin Sans', sans-serif; */
-
+    font-family: 'Montserrat', sans-serif;
   /* font-family: 'Nunito', sans-serif; */
     /* font-family: arial; */
     font-weight: 900;
