@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #470f6a; */
-    /* outline: 1px solid limegreen !important; */
+    outline: 1px solid limegreen !important;
 
 }
 
@@ -258,9 +258,21 @@ svg{
     margin: 0 auto;
 }
 
-.bigger-tools{
+.div1{
+    display: flex;
+    align-items:center;
+    text-align: center;
+    justify-content: center;
     width: 90vw;
     height: 70vh;
+    background-color:brown;
+    margin: 10px auto;
+}
+
+.bigger-tools{
+    flex: 2;
+    width: 80vw;
+    height: 90%;
     background-color:yellow;
     margin: 10px auto;
     /* padding-top: 2rem; */
