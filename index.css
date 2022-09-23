@@ -265,21 +265,36 @@ svg{
     justify-content: center;
     width: 90vw;
     height: 70vh;
-    background-color:brown;
+    /* background-color:brown; */
     margin: 10px auto;
 }
 
 .bigger-tools{
-    flex: 2;
+    flex: 1.5;
     width: 80vw;
     height: 90%;
-    background-color:yellow;
+    /* background-color:yellow; */
     margin: 10px auto;
     /* padding-top: 2rem; */
 }
 
+.bigger-tools h1{
+    font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Nunito', sans-serif; */
+    /* font-family: arial; */
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1;
+    padding-top: 45px;
+    /* background-color:blue; */
+    /* font-size: 2.5rem; */
+    /* font-weight: 500; */
+}
+
 .inner-tools{
-    
+    flex: 2.5;
+    background-color: #00ffaa;
+    height: 90%;
 }
 
 .sponsorDiv{
