@@ -58,40 +58,40 @@
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-1"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-1"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-3"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-3"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-3"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-5"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-5"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-5"></use>
                     </g>
                     <g id="Rectangle" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-7"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-7"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-7"></use>
                     </g>
-                    <polygon id="Path" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" points="39.6337362 37.7811247 34.3760866 45.7213477 44.8913859 45.7213477"></polygon>
+                    <polygon id="Path" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1" points="39.6337362 37.7811247 34.3760866 45.7213477 44.8913859 45.7213477"></polygon>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-9"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-9"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-9"></use>
                     </g>
                     <g id="Rectangle" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-11"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-11"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-11"></use>
                     </g>
-                    <path d="M61.4285714,10 C61.4285714,13.9450747 58.230789,17.1428571 54.2857143,17.144286 C58.230789,17.1457149 61.4285714,20.3434973 61.4285714,24.288572 C61.4285714,20.3434973 64.624925,17.1457149 68.5714286,17.144286 C64.624925,17.1428571 61.4285714,13.9450747 61.4285714,10 Z" id="Stroke-35-Copy-2" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1"></path>
-                    <line x1="71.9548872" y1="49.672203" x2="71.9548872" y2="57.2366871" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></line>
-                    <line x1="75.7142857" y1="53.4544451" x2="68.1954887" y2="53.4544451" id="Path" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></line>
-                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" cx="18.0451128" cy="19.4763242" rx="3.7593985" ry="3.76203852"></ellipse>
-                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" cx="67.593985" cy="31.8810193" rx="1.87969925" ry="1.88101926"></ellipse>
-                    <ellipse id="Oval" stroke="#6F4CFF" stroke-width="1" cx="11.8796992" cy="37.595305" rx="1.87969925" ry="1.88101926"></ellipse>
+                    <path d="M61.4285714,10 C61.4285714,13.9450747 58.230789,17.1428571 54.2857143,17.144286 C58.230789,17.1457149 61.4285714,20.3434973 61.4285714,24.288572 C61.4285714,20.3434973 64.624925,17.1457149 68.5714286,17.144286 C64.624925,17.1428571 61.4285714,13.9450747 61.4285714,10 Z" id="Stroke-35-Copy-2" stroke-opacity="0.32" stroke="#b440fc" stroke-width="1"></path>
+                    <line x1="71.9548872" y1="49.672203" x2="71.9548872" y2="57.2366871" id="Path" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></line>
+                    <line x1="75.7142857" y1="53.4544451" x2="68.1954887" y2="53.4544451" id="Path" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></line>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1" cx="18.0451128" cy="19.4763242" rx="3.7593985" ry="3.76203852"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1" cx="67.593985" cy="31.8810193" rx="1.87969925" ry="1.88101926"></ellipse>
+                    <ellipse id="Oval" stroke="#b440fc" stroke-width="1" cx="11.8796992" cy="37.595305" rx="1.87969925" ry="1.88101926"></ellipse>
                 </g>
             </g>
         </g>

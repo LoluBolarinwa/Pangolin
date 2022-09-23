@@ -127,92 +127,92 @@
         <g id="Landingpage" transform="translate(-650.000000, -3298.000000)">
             <g id="Group-8" transform="translate(76.000000, 3060.000000)">
                 <g id="Icons-/-Categories-/-Marketplaces" transform="translate(576.000000, 252.000000)">
-                    <polyline id="Path" stroke="#6F4CFF" stroke-width="1" points="11.8044812 21.2148876 8.04508271 17.4528491 11.8044812 13.6908106"></polyline>
-                    <polyline id="Path" stroke="#6F4CFF" stroke-width="1" points="23.0826767 6.16673355 26.8420752 9.92877207 23.0826767 13.6908106"></polyline>
+                    <polyline id="Path" stroke="#b440fc" stroke-width="1" points="11.8044812 21.2148876 8.04508271 17.4528491 11.8044812 13.6908106"></polyline>
+                    <polyline id="Path" stroke="#b440fc" stroke-width="1" points="23.0826767 6.16673355 26.8420752 9.92877207 23.0826767 13.6908106"></polyline>
                     <g id="Oval" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-1"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-1"></use>
                     </g>
                     <g id="Oval" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-3"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-3"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-3"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-5"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-5"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-5"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-7"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-7"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-7"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-9"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-9"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-9"></use>
                     </g>
                     <g id="Rectangle" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-11"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-11"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-11"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-13"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-13"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-13"></use>
                     </g>
-                    <ellipse id="Oval" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" cx="66.3157895" cy="62.1448636" rx="9.39849624" ry="9.40509631"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1" cx="66.3157895" cy="62.1448636" rx="9.39849624" ry="9.40509631"></ellipse>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-15"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-15"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-15"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-17"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-17"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-17"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-19"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-19"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-19"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-21"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-21"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-21"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-23"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-23"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-23"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-25"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-25"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-25"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-27"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-27"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-27"></use>
                     </g>
                     <g id="Path" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-29"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-29"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-29"></use>
                     </g>
-                    <ellipse id="Oval" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1" cx="8.04511278" cy="60.2638443" rx="3.7593985" ry="3.76203852"></ellipse>
-                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" cx="38.1203008" cy="18.8814205" rx="3.7593985" ry="3.76203852"></ellipse>
-                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1" cx="47.518797" cy="70.6094502" rx="1.87969925" ry="1.88101926"></ellipse>
-                    <ellipse id="Oval" stroke="#6F4CFF" stroke-width="1" cx="68.1954887" cy="37.6916132" rx="1.87969925" ry="1.88101926"></ellipse>
-                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1" cx="19.3233083" cy="41.4536517" rx="1.87969925" ry="1.88101926"></ellipse>
-                    <path d="M45.7142857,32.8571429 L45.7142857,45.7142857 M41.4285714,32.8571429 L41.4285714,47.1428571 M37.1428571,32.8571429 L37.1428571,48.5714286 M32.8571429,32.8571429 L32.8571429,50 M28.5714286,32.8571429 L28.5714286,42.8571429 M50,32.8571429 L50,45.7142857" id="Combined-Shape" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1"></path>
-                    <line x1="8.04511278" y1="17.4528491" x2="19.3233083" y2="17.4528491" id="Path" stroke="#6F4CFF" stroke-width="1"></line>
-                    <line x1="26.8421053" y1="9.92877207" x2="15.5639098" y2="9.92877207" id="Path" stroke="#6F4CFF" stroke-width="1"></line>
+                    <ellipse id="Oval" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1" cx="8.04511278" cy="60.2638443" rx="3.7593985" ry="3.76203852"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1" cx="38.1203008" cy="18.8814205" rx="3.7593985" ry="3.76203852"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#b440fc" stroke-width="1" cx="47.518797" cy="70.6094502" rx="1.87969925" ry="1.88101926"></ellipse>
+                    <ellipse id="Oval" stroke="#b440fc" stroke-width="1" cx="68.1954887" cy="37.6916132" rx="1.87969925" ry="1.88101926"></ellipse>
+                    <ellipse id="Oval" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1" cx="19.3233083" cy="41.4536517" rx="1.87969925" ry="1.88101926"></ellipse>
+                    <path d="M45.7142857,32.8571429 L45.7142857,45.7142857 M41.4285714,32.8571429 L41.4285714,47.1428571 M37.1428571,32.8571429 L37.1428571,48.5714286 M32.8571429,32.8571429 L32.8571429,50 M28.5714286,32.8571429 L28.5714286,42.8571429 M50,32.8571429 L50,45.7142857" id="Combined-Shape" stroke-opacity="0.64" stroke="#00ffff" stroke-width="1"></path>
+                    <line x1="8.04511278" y1="17.4528491" x2="19.3233083" y2="17.4528491" id="Path" stroke="#b440fc" stroke-width="1"></line>
+                    <line x1="26.8421053" y1="9.92877207" x2="15.5639098" y2="9.92877207" id="Path" stroke="#b440fc" stroke-width="1"></line>
                 </g>
             </g>
         </g>

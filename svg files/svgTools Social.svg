@@ -106,77 +106,77 @@
                     <g id="Stroke-17" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-1"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-1"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-1"></use>
                     </g>
-                    <path d="M22.2360248,61.6770186 C22.2360248,60.7849441 21.5131925,60.0621118 20.621118,60.0621118 C19.7290435,60.0621118 19.0062112,60.7849441 19.0062112,61.6770186 C19.0062112,62.5690932 19.7290435,63.2919255 20.621118,63.2919255 C21.5131925,63.2919255 22.2360248,62.5690932 22.2360248,61.6770186 Z" id="Stroke-1" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1"></path>
-                    <path d="M28.7082484,61.6770186 C28.7082484,60.7849441 27.9854161,60.0621118 27.0933416,60.0621118 C26.201913,60.0621118 25.4784348,60.7849441 25.4784348,61.6770186 C25.4784348,62.5690932 26.201913,63.2919255 27.0933416,63.2919255 C27.9854161,63.2919255 28.7082484,62.5690932 28.7082484,61.6770186 Z" id="Stroke-3" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1"></path>
-                    <path d="M35.1552795,61.6770186 C35.1552795,60.7849441 34.4324472,60.0621118 33.5403727,60.0621118 C32.6482981,60.0621118 31.9254658,60.7849441 31.9254658,61.6770186 C31.9254658,62.5690932 32.6482981,63.2919255 33.5403727,63.2919255 C34.4324472,63.2919255 35.1552795,62.5690932 35.1552795,61.6770186 Z" id="Stroke-5" stroke-opacity="0.32" stroke="#6F4CFF" stroke-width="1"></path>
-                    <path d="M28.6956522,19.689441 C18.8847702,19.689441 10.931677,27.6431801 10.931677,37.4534161" id="Stroke-7" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></path>
-                    <path d="M51.3043478,55.2173913 C61.1152298,55.2173913 69.068323,47.2636522 69.068323,37.4534161" id="Stroke-9" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></path>
+                    <path d="M22.2360248,61.6770186 C22.2360248,60.7849441 21.5131925,60.0621118 20.621118,60.0621118 C19.7290435,60.0621118 19.0062112,60.7849441 19.0062112,61.6770186 C19.0062112,62.5690932 19.7290435,63.2919255 20.621118,63.2919255 C21.5131925,63.2919255 22.2360248,62.5690932 22.2360248,61.6770186 Z" id="Stroke-1" stroke-opacity="0.32" stroke="#b440fc" stroke-width="1"></path>
+                    <path d="M28.7082484,61.6770186 C28.7082484,60.7849441 27.9854161,60.0621118 27.0933416,60.0621118 C26.201913,60.0621118 25.4784348,60.7849441 25.4784348,61.6770186 C25.4784348,62.5690932 26.201913,63.2919255 27.0933416,63.2919255 C27.9854161,63.2919255 28.7082484,62.5690932 28.7082484,61.6770186 Z" id="Stroke-3" stroke-opacity="0.32" stroke="#b440fc" stroke-width="1"></path>
+                    <path d="M35.1552795,61.6770186 C35.1552795,60.7849441 34.4324472,60.0621118 33.5403727,60.0621118 C32.6482981,60.0621118 31.9254658,60.7849441 31.9254658,61.6770186 C31.9254658,62.5690932 32.6482981,63.2919255 33.5403727,63.2919255 C34.4324472,63.2919255 35.1552795,62.5690932 35.1552795,61.6770186 Z" id="Stroke-5" stroke-opacity="0.32" stroke="#b440fc" stroke-width="1"></path>
+                    <path d="M28.6956522,19.689441 C18.8847702,19.689441 10.931677,27.6431801 10.931677,37.4534161" id="Stroke-7" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></path>
+                    <path d="M51.3043478,55.2173913 C61.1152298,55.2173913 69.068323,47.2636522 69.068323,37.4534161" id="Stroke-9" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></path>
                     <g id="Stroke-11" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-3"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-3"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-3"></use>
                     </g>
                     <g id="Stroke-13" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-5"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-5"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-5"></use>
                     </g>
                     <g id="Stroke-15" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-7"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-7"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-7"></use>
                     </g>
-                    <path d="M20.621118,55.2173913 L33.5403727,55.2173913 C37.1080248,55.2173913 40,58.1100124 40,61.6770186 C40,62.9204969 39.6427826,64.0774161 39.0342857,65.0625093 L41.6149068,69.7515528 L36.9258634,67.1709317 C35.9401242,67.7794286 34.783205,68.136646 33.5403727,68.136646 L20.621118,68.136646 C17.0534658,68.136646 14.1614907,65.2440248 14.1614907,61.6770186 C14.1614907,58.1100124 17.0534658,55.2173913 20.621118,55.2173913 Z" id="Stroke-19" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></path>
-                    <path d="M69.068323,56.8322981 C69.068323,55.9402236 68.3454907,55.2173913 67.4534161,55.2173913 C66.5613416,55.2173913 65.8385093,55.9402236 65.8385093,56.8322981 C65.8385093,57.7243727 66.5613416,58.447205 67.4534161,58.447205 C68.3454907,58.447205 69.068323,57.7243727 69.068323,56.8322981 Z" id="Stroke-21" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1"></path>
-                    <path d="M51.1416298,18.8819876 C51.1416298,17.989913 50.4181516,17.2670807 49.526723,17.2670807 C48.6346484,17.2670807 47.9118161,17.989913 47.9118161,18.8819876 C47.9118161,19.7740621 48.6346484,20.4968944 49.526723,20.4968944 C50.4181516,20.4968944 51.1416298,19.7740621 51.1416298,18.8819876 Z" id="Stroke-23" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1"></path>
-                    <path d="M57.7639752,68.136646 C57.7639752,67.2445714 57.0411429,66.5217391 56.1490683,66.5217391 C55.2569938,66.5217391 54.5341615,67.2445714 54.5341615,68.136646 C54.5341615,69.0287205 55.2569938,69.7515528 56.1490683,69.7515528 C57.0411429,69.7515528 57.7639752,69.0287205 57.7639752,68.136646 Z" id="Stroke-25" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></path>
-                    <line x1="28.6956522" y1="16.4596273" x2="28.6956522" y2="22.9192547" id="Stroke-27" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1"></line>
-                    <line x1="7.70186335" y1="37.4534161" x2="14.1614907" y2="37.4534161" id="Stroke-29" stroke-opacity="0.64" stroke="#FFFFFF" stroke-width="1"></line>
-                    <line x1="72.2981366" y1="37.4534161" x2="65.8385093" y2="37.4534161" id="Stroke-31" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1"></line>
-                    <line x1="51.3043478" y1="58.447205" x2="51.3043478" y2="51.9875776" id="Stroke-33" stroke-opacity="0.32" stroke="#FFFFFF" stroke-width="1"></line>
-                    <path d="M14.1614907,13.2298137 C14.1614907,15.0133168 12.7158261,16.4589814 10.932323,16.4596273 C12.7158261,16.4602733 14.1614907,17.9059379 14.1614907,19.689441 C14.1614907,17.9059379 15.6065093,16.4602733 17.3906584,16.4596273 C15.6065093,16.4589814 14.1614907,15.0133168 14.1614907,13.2298137 Z" id="Stroke-35" stroke-opacity="0.64" stroke="#6F4CFF" stroke-width="1"></path>
+                    <path d="M20.621118,55.2173913 L33.5403727,55.2173913 C37.1080248,55.2173913 40,58.1100124 40,61.6770186 C40,62.9204969 39.6427826,64.0774161 39.0342857,65.0625093 L41.6149068,69.7515528 L36.9258634,67.1709317 C35.9401242,67.7794286 34.783205,68.136646 33.5403727,68.136646 L20.621118,68.136646 C17.0534658,68.136646 14.1614907,65.2440248 14.1614907,61.6770186 C14.1614907,58.1100124 17.0534658,55.2173913 20.621118,55.2173913 Z" id="Stroke-19" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></path>
+                    <path d="M69.068323,56.8322981 C69.068323,55.9402236 68.3454907,55.2173913 67.4534161,55.2173913 C66.5613416,55.2173913 65.8385093,55.9402236 65.8385093,56.8322981 C65.8385093,57.7243727 66.5613416,58.447205 67.4534161,58.447205 C68.3454907,58.447205 69.068323,57.7243727 69.068323,56.8322981 Z" id="Stroke-21" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1"></path>
+                    <path d="M51.1416298,18.8819876 C51.1416298,17.989913 50.4181516,17.2670807 49.526723,17.2670807 C48.6346484,17.2670807 47.9118161,17.989913 47.9118161,18.8819876 C47.9118161,19.7740621 48.6346484,20.4968944 49.526723,20.4968944 C50.4181516,20.4968944 51.1416298,19.7740621 51.1416298,18.8819876 Z" id="Stroke-23" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1"></path>
+                    <path d="M57.7639752,68.136646 C57.7639752,67.2445714 57.0411429,66.5217391 56.1490683,66.5217391 C55.2569938,66.5217391 54.5341615,67.2445714 54.5341615,68.136646 C54.5341615,69.0287205 55.2569938,69.7515528 56.1490683,69.7515528 C57.0411429,69.7515528 57.7639752,69.0287205 57.7639752,68.136646 Z" id="Stroke-25" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></path>
+                    <line x1="28.6956522" y1="16.4596273" x2="28.6956522" y2="22.9192547" id="Stroke-27" stroke-opacity="0.64" stroke="#00ffff" stroke-width="1"></line>
+                    <line x1="7.70186335" y1="37.4534161" x2="14.1614907" y2="37.4534161" id="Stroke-29" stroke-opacity="0.64" stroke="#00ffff" stroke-width="1"></line>
+                    <line x1="72.2981366" y1="37.4534161" x2="65.8385093" y2="37.4534161" id="Stroke-31" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1"></line>
+                    <line x1="51.3043478" y1="58.447205" x2="51.3043478" y2="51.9875776" id="Stroke-33" stroke-opacity="0.32" stroke="#00ffff" stroke-width="1"></line>
+                    <path d="M14.1614907,13.2298137 C14.1614907,15.0133168 12.7158261,16.4589814 10.932323,16.4596273 C12.7158261,16.4602733 14.1614907,17.9059379 14.1614907,19.689441 C14.1614907,17.9059379 15.6065093,16.4602733 17.3906584,16.4596273 C15.6065093,16.4589814 14.1614907,15.0133168 14.1614907,13.2298137 Z" id="Stroke-35" stroke-opacity="0.64" stroke="#b440fc" stroke-width="1"></path>
                     <g id="Stroke-37" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-9"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-9"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-9"></use>
                     </g>
-                    <polygon id="Stroke-39" stroke="#6F4CFF" stroke-width="1" points="57.7639752 10 57.7639752 22.9192547 62.6086957 22.9192547 65.8385093 26.1490683 69.068323 22.9192547 73.9130435 22.9192547 73.9130435 10"></polygon>
+                    <polygon id="Stroke-39" stroke="#b440fc" stroke-width="1" points="57.7639752 10 57.7639752 22.9192547 62.6086957 22.9192547 65.8385093 26.1490683 69.068323 22.9192547 73.9130435 22.9192547 73.9130435 10"></polygon>
                     <g id="Stroke-41" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-11"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-11"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-11"></use>
                     </g>
                     <g id="Stroke-43" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-13"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-13"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-13"></use>
                     </g>
                     <g id="Stroke-45" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-15"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-15"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-15"></use>
                     </g>
                     <g id="Stroke-47" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-17"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-17"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-17"></use>
                     </g>
                     <g id="Stroke-49" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-19"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-19"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-19"></use>
                     </g>
                     <g id="Stroke-51" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-21"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-21"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-21"></use>
                     </g>
                     <g id="Stroke-53" stroke-linecap="round">
                         <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
                         <use stroke="#F2F2F9" stroke-width="1" fill-opacity="0" fill="#F2F2F9" fill-rule="evenodd" xlink:href="#path-23"></use>
-                        <use stroke="#FFFFFF" stroke-width="0.5" xlink:href="#path-23"></use>
+                        <use stroke="#00ffff" stroke-width="0.5" xlink:href="#path-23"></use>
                     </g>
                 </g>
             </g>
