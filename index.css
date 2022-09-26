@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    /* outline: 1px solid limegreen !important; */
+    outline: 1px solid limegreen !important;
 
 }
 
@@ -364,26 +364,36 @@ svg{
 .carouselbox{
     width: 90vw;
     height: 50vh;
-    background-color:greenyellow;
+    /* background-color:greenyellow; */
     margin: 0 auto;
     margin-top: 2rem;
     display: flex; 
-    /* align-items: center;
-    align-items:center; */
+    align-items: center;
     justify-content: center;
 }
 
 .carousel{
     /* position: absolute; */
     display: flex; 
-    /* align-items: center;
-    align-items:center; */
+    align-items:center;
     justify-content: center;
-    width: 90%;
+    width: 95%;
     height: 98%;
-    background-color:black;
+    /* background-color:black; */
     margin: 0 auto;
     /* padding: 5px auto; */
+}
+
+.carouselcard{
+    flex: 1;
+    /* gap: 1.5rem; */
+    margin: 0 1rem;
+    /* flex: 2; */
+    /* background-color:lime; */
+    /* margin: 0 auto; */
+    /* width: 95%; */
+    height: 98%;
+    background-color:violet;
 }
 
 
