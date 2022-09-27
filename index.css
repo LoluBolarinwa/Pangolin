@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -419,6 +419,10 @@ svg{
 }
 
 .projects{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
     /* flex:1.25; */
     width: 10rem;
     height: 100%;
@@ -434,5 +438,22 @@ svg{
     /* background-color:brown; */
 }
 
+.css-ev1hfs{
+    flex-direction: column;
+    width: 50px;
+    -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+}
 
-text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+.projects label{
+    /* font-size: 5px; */
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 8px;
+    font-weight: 800;
+    font-size: 0.7rem;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    /* -webkit-transition: all 0.2s ease;
+    transition: all 0.2s ease; */
+}
