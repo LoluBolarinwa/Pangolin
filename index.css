@@ -358,9 +358,6 @@ svg{
     /* text-shadow: 0 0 80px rgba(2, 27, 61, 0.976), 0 0 32px rgb(2, 26, 85); */
 }
 
-
-
-
 .carouselbox{
     width: 90vw;
     height: 50vh;
@@ -399,8 +396,28 @@ svg{
 
 .sponsorDiv{
     width: 90vw;
-    height: 100vh;
-    /* background-color:purple; */
+    height: 60vh;
+    background-color:purple;
     margin: 10px auto;
-    padding-top: 2rem;   
+    /* padding-top: 2rem;    */
+    margin: 2rem auto;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsors{
+    /* position: absolute; */
+    display: flex; 
+    align-items:center;
+    justify-content: center;
+    width: 95%;
+    height: 35%;
+    background-color:black;
+    margin: 0 auto;
+    /* padding: 5px auto; */
+}
+
+.projects{
+    flex: ;
 }
