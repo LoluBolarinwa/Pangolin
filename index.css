@@ -393,6 +393,14 @@ svg{
     background-color:violet;
 }
 
+.carouselsvg{
+    flex-direction: column;
+    width: 150px;
+    height: 140px;
+    cursor: pointer;
+}
+
+
 
 .sponsorDiv{
     width: 70vw;
