@@ -393,10 +393,11 @@ svg{
     background-color:violet;
 }
 
-.carouselsvg{
-    flex-direction: column;
-    width: 150px;
-    height: 140px;
+.carouselsvg img{
+    /* flex-direction: column; */
+    color: #ac29fe;
+    width: 250px;
+    height: 240px;
     cursor: pointer;
 }
 
