@@ -238,11 +238,11 @@ color: #000;
 .svgbox{
     background-image: url("svg\ files/poddle.svg");
     z-index: -1;
-    /* background-repeat: no-repeat;
+    background-repeat: no-repeat;
     position:relative;
     right: 70px;
     flex: 2;
-    margin: 0 auto; */
+    margin: 0 auto;
 }
 
 
@@ -273,18 +273,6 @@ svg{
     /* padding: 5px auto; */
 }
 
-.textbox2{
-    flex: 2;
-    /* background-color:lime; */
-    margin: 0 auto;
-}
-.textbox2 h1{
-    padding: 50px 50px;
-    /* background-color:blue; */
-    font-size: 2.5rem;
-    /* font-weight: 500; */
-}
-
 .svgbox2{
     flex: 2;
     /* background-color:brown; */
@@ -297,6 +285,18 @@ svg{
     right: 70px;
     flex: 2;
     margin: 0 auto;
+}
+
+.textbox2{
+    flex: 2;
+    /* background-color:lime; */
+    margin: 0 auto;
+}
+.textbox2 h1{
+    padding: 50px 50px;
+    /* background-color:blue; */
+    font-size: 2.5rem;
+    /* font-weight: 500; */
 }
 
 .div1{
