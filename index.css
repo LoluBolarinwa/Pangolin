@@ -181,9 +181,9 @@ section{
 .textbox h1{    
     /* font-family: Graphik Web,Arial,Helvetica,sans-serif; */
     /* font-family: 'Josefin Sans', sans-serif; */
-    font-family: 'Montserrat', sans-serif;
-  /* font-family: 'Nunito', sans-serif; */
+    /* font-family: 'Nunito', sans-serif; */
     /* font-family: arial; */
+    font-family: 'Montserrat', sans-serif;
     font-weight: 900;
     font-size: 3rem;
     line-height: 1;
@@ -293,10 +293,24 @@ svg{
     margin: 0 auto;
 }
 .textbox2 h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3rem;
+    line-height: 1;
+    padding-top: 45px;
+    text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
     padding: 50px 50px;
     /* background-color:blue; */
     font-size: 2.5rem;
     /* font-weight: 500; */
+}
+
+.textbox2 h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    /* margin-top: 2rem; */
+    padding: 0px 50px;
+    text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
 }
 
 .div1{
