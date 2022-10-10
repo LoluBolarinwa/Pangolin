@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -545,7 +545,7 @@ svg{
     .bigbox{
         width: 100vw;
         height: 55vh;
-        background-color:greenyellow;
+        /* background-color:greenyellow; */
         margin: 0 0;
         padding-top: 0rem;
     }
@@ -561,10 +561,10 @@ svg{
     }
     
     .textbox{
-        flex: 0;
+        flex: 2;
         position:relative;
         left: 0px;
-        /* background-color:lime; */
+        background-color:lime;
         margin: 0 auto;
     }
 
@@ -573,7 +573,7 @@ svg{
         font-weight: 900;
         font-size: 1.5rem;
         line-height: 1;
-        padding-top: 45px;
+        padding-top: 30px;
         text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
     
         /* background-color:blue; */
