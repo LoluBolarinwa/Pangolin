@@ -544,7 +544,7 @@ svg{
     
     .bigbox{
         width: 100vw;
-        height: 85vh;
+        height: 55vh;
         background-color:greenyellow;
         margin: 0 0;
         padding-top: 0rem;
@@ -555,7 +555,7 @@ svg{
         display: flex; 
         flex-direction: column;
         width: 90%;
-        height: 90%;
+        height: 95%;
         /* background-color:black; */
         margin: 0 1rem;
     }
@@ -567,11 +567,8 @@ svg{
         /* background-color:lime; */
         margin: 0 auto;
     }
+
     .textbox h1{    
-        /* font-family: Graphik Web,Arial,Helvetica,sans-serif; */
-        /* font-family: 'Josefin Sans', sans-serif; */
-        /* font-family: 'Nunito', sans-serif; */
-        /* font-family: arial; */
         font-family: 'Montserrat', sans-serif;
         font-weight: 900;
         font-size: 1.5rem;
@@ -586,6 +583,8 @@ svg{
     
     .textbox h4{
         font-family: 'Montserrat', sans-serif;
+        font-size: 1rem;
+        margin: 0 1rem 0 0;
         font-weight: 400;
         margin-top: 2rem;
         text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
