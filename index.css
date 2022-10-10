@@ -545,7 +545,7 @@ svg{
     .bigbox{
         width: 100vw;
         height: 85vh;
-        /* background-color:greenyellow; */
+        background-color:greenyellow;
         margin: 0 0;
         padding-top: 0rem;
     }
@@ -554,17 +554,14 @@ svg{
         /* position: absolute; */
         display: flex; 
         flex-direction: column;
-        width: 100%;
+        width: 90%;
         height: 90%;
         /* background-color:black; */
         margin: 0 1rem;
-        /* padding: 5px auto; */
     }
     
     .textbox{
-        /* font-weight: 900;
-      font-size: 5rem; */
-        flex: 2;
+        flex: 0;
         position:relative;
         left: 0px;
         /* background-color:lime; */
