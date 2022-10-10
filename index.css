@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -237,7 +237,7 @@ color: #000;
 
 .svgbox{
     background-image: url("svg\ files/poddle.svg");
-    /* z-index: -1; */
+    z-index: -1;
     background-repeat: no-repeat;
     position:relative;
     right: 70px;
