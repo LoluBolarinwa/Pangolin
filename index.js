@@ -1,4 +1,4 @@
-<div class="bigbox2">
+{/* <div class="bigbox2">
     <div class="innerbox2">
         <!-- <div class="svgbox2"><div class="pdfffosition"></div></div> -->
         <div class="textbox2">
@@ -8,7 +8,7 @@
             </p>
         </div>
     </div>
-</div>
+</div> */}
 
 <div class="div1">
     <div class="bigger-tools">
