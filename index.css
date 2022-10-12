@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -211,7 +211,7 @@ section{
     height: 50vh; */
     /* margin-left: 5rem; */
     /* padding-left: 5rem; */
-    background-color: #00ffaa;
+    /* background-color: #00ffaa; */
     background-repeat: no-repeat;
     position:relative;
     right: 70px;
@@ -543,7 +543,7 @@ color: #000;
 
 
 
-@media screen and (max-width:768px){
+@media screen and (max-width:768px) and (max-width:1023px){
 
     .parent-intro{
         width: 90vw;
@@ -607,7 +607,7 @@ color: #000;
         width: 100vw;
         margin-left: 0rem;
         padding-left: 0rem;
-        background-color: #00ffaa;
+        /* background-color: #00ffaa; */
         background-repeat: no-repeat;
         position:relative;
         right: 0px;
