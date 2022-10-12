@@ -601,13 +601,13 @@ color: #000;
 
     .svgbox{
         /* background-image: url("svg\ files/poddle.svg"); */
-        background-size: 19rem;
+        background-size: 18rem;
         background-position: 30px 0;
         z-index: -1;
         /* display: flex; */
         width: 100vw;
-        margin-left: 13rem;
-        padding-left: 0rem;
+        /* margin-left: 13rem;
+        padding-left: 0rem; */
         /* background-color: #00ffaa; */
         background-repeat: no-repeat;
         position:relative;
@@ -617,7 +617,7 @@ color: #000;
     }
     
     .svgbox img{
-        width:80%; 
+        width:82%; 
         height:110%;
         padding-left: 3rem;
     }
@@ -631,22 +631,105 @@ color: #000;
 }
 
 @media screen and (min-width:768px) and (max-width:1023px)  {
+
+    .parent-intro{
+        width: 90vw;
+        height: 4vh;
+        margin-top: 1rem;
+    }
+
+    .pangolin-intro{
+        font-size: 1.5rem;
+        height: 100%;
+    }
+    
+    .bigbox{
+        position: absolute;
+        box-sizing: border-box;
+        width: 100vw;
+        height: 40vh;
+        /* background-color:greenyellow; */
+        margin: 0 0;
+        padding-top: 0rem;
+    }
+    
+    .pangolin{
+        color: #ac29fe;
+    }
+    
+    
+    
+    .innerbox{
+        /* position: absolute; */
+        display: flex; 
+        width: 90%;
+        height: 90%;
+        /* background-color:black; */
+        margin: 0 auto;
+        /* padding: 5px auto; */
+    }
+    
+    
+    
+    .textbox{
+        flex: 2;
+        /* width: 50%; */
+        position:relative;
+        left: 0px;
+        /* background-color:lime; */
+        margin: 0 auto;
+    }
+    .textbox{
+        /* font-weight: 900;
+      font-size: 5rem; */
+        flex: 2;
+        position:relative;
+        /* background-color:lime; */
+        margin: 0 auto;
+    }
+    .textbox h1{    
+        font-size: 1.5rem;
+        padding-top: 30px;
+        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+        /* background-color:blue; */
+    }
+    
+    .textbox h4{
+        font-size: 1rem;
+        margin: 0 1rem 0 0;
+        margin-top: 2rem;
+        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+    }
+
+    
+
+
     .svgbox{
+        /* flex: 1; */
         /* background-image: url("svg\ files/poddle.svg"); */
-        background-size: 27rem;
-        /* background-position: 30px 0; */
+        background-size: 19rem;
+        background-position: 25px 0;
         z-index: -1;
         /* display: flex; */
-        width: 100vw;
-        margin-left: 0rem;
-        padding-left: 0rem;
+        /* width: 50%; */
+        /* margin-left: 0rem;
+        padding-left: 0rem; */
         /* background-color: #00ffaa; */
         background-repeat: no-repeat;
         position:relative;
         right: 0px;
-        flex: 4;
+        /* flex: 4; */
         margin: 0 auto;
     }
+
+    .svgbox img{
+        width:80%; 
+        height:60%;
+        position: relative;
+        top: 20px;
+        /* padding-left: 5rem; */
+    }
+    
     
 }
 /* and (max-width:1023px){ */
