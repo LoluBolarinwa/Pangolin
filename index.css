@@ -678,7 +678,6 @@ color: #330351;
 
     }
     
-
     .textbox2{
         flex: 2;
         /* background-color:greenyellow; */
@@ -701,24 +700,7 @@ color: #330351;
 
     }
 
-    .textbox{
-        flex: 2;
-        position:relative;
-        left: 0px;
-        /* background-color:lime; */
-        margin: 0 auto;
-    }
-
-        
-        /* background-color:blue; */
     
-    .textbox h4{
-        font-size: 1rem;
-        margin: 0 1rem 0 0;
-        margin-top: 2rem;
-        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
-    }
-
 }  
 
 
@@ -738,20 +720,19 @@ color: #330351;
         height: 100%;
     }
     
-    .bigbox{
-        /* box-sizing: border-box; */
-        width: 100vw;
-        height: 40vh;
-        /* background-color:greenyellow; */
-        margin: 0 0;
-        padding-top: 0rem;
-    }
     
     .pangolin{
         color: #ac29fe;
     }
     
-    
+    .bigbox{
+        /* box-sizing: border-box; */
+        width: 100vw;
+        height: 32vh;
+        /* background-color:greenyellow; */
+        margin: 0 0;
+        padding-top: 0rem;
+    }
     
     .innerbox{
         /* position: absolute; */
@@ -795,8 +776,6 @@ color: #330351;
         text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
     }
 
-    
-
 
     .svgbox{
         /* flex: 1; */
@@ -824,6 +803,62 @@ color: #330351;
         /* padding-left: 5rem; */
     }
     
+
+    
+
+    .bigbox2{
+        width: 90vw;
+        height: 30vh;
+        /* background-color:yellow; */
+        margin: 0px auto;
+        /* padding-top: 2rem; */
+    }
+    
+    .innerbox2{
+        /* position: absolute; */
+        display: flex; 
+        width: 100%;
+        height: 90%;
+        /* background-color:black; */
+        margin: 0 auto;
+        /* padding: 5px auto; */
+    }
+    
+    .svgbox2{
+        flex: 2;
+        margin: 0 auto;
+        /* position:relative; */
+        /* right: 70px; */
+    }
+    
+    .svgbox2 img{
+        width:100%; 
+        height:80%;
+        position: relative;
+        right: 0;
+        top: 0;
+        /* background-color:brown; */
+    }
+    
+    .textbox2{
+        flex: 2;
+        margin: 0 auto;
+        /* background-color:lime; */
+    }
+
+    .textbox2 h1{
+        font-size: 3rem;
+        padding-top: 45px;
+        padding: 50px 0px 10px;
+        /* background-color:blue; */
+        font-size: 1.5rem;
+    }
+    
+    .textbox2 h4{
+        margin-top: .8rem;
+        /* text-align: center; */
+        padding: 0px 10px;
+    }
     
 }
 /* and (max-width:1023px){ */
