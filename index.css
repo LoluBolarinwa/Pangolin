@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -295,14 +295,18 @@ color: #330351;
     flex: 2;
     /* background-color:brown; */
     margin: 0 auto;
-
-    /* background-image: url("svg\ files/Global BLockchain network.svg"); */
-    z-index: -1;
-    background-repeat: no-repeat;
-    position:relative;
-    right: 70px;
-    flex: 2;
+    /* position:relative; */
+    /* right: 70px; */
     margin: 0 auto;
+}
+
+.svgbox2 img{
+    width:100%; 
+    height:60%;
+    position: relative;
+    right: -25px;
+    top: 0;
+    /* background-color:brown; */
 }
 
 .textbox2{
@@ -327,6 +331,7 @@ color: #330351;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
     /* margin-top: 2rem; */
+    /* text-align: center; */
     padding: 0px 50px;
     text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
 }
@@ -638,7 +643,7 @@ color: #330351;
         width: 90vw;
         height: 100vh;
         /* background-color:yellow; */
-        margin: 17rem auto 0;
+        margin: 10rem auto 0;
         /* padding-top: 2rem; */
     }
 
@@ -665,37 +670,35 @@ color: #330351;
 
     .svgbox2 img{
         width:80%; 
-        height:80%;
+        height:60%;
         position: relative;
-        top: 15px;
-        /* padding-left: 5rem; */
+        right: -25px;
+        top: 0;
+        /* background-color:brown; */
+
     }
     
 
     .textbox2{
         flex: 2;
-        /* background-color:lime; */
+        /* background-color:greenyellow; */
         margin: 0 auto;
     }
     .textbox2 h1{
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 900;
-        font-size: 3rem;
-        line-height: 1;
-        padding-top: 45px;
-        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
-        padding: 50px 50px;
-        /* background-color:blue; */
-        font-size: 2.5rem;
-        /* font-weight: 500; */
+        font-size: 1.5rem;
+        padding-top: 30px;
+        margin: 0 auto;
+        text-align: center;
+        /* line-height: 1; */
+        padding: 30px 0px;
     }
 
     .textbox2 h4{
-        font-family: 'Montserrat', sans-serif;
-        font-weight: 400;
         /* margin-top: 2rem; */
-        padding: 0px 50px;
-        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+        /* background-color:lime; */
+        padding: 0px 30px;
+        text-align: center;
+
     }
 
     .textbox{
@@ -706,12 +709,8 @@ color: #330351;
         margin: 0 auto;
     }
 
-    .textbox h1{    
-        font-size: 1.5rem;
-        padding-top: 30px;
-        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+        
         /* background-color:blue; */
-    }
     
     .textbox h4{
         font-size: 1rem;
