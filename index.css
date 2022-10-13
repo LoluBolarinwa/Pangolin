@@ -250,15 +250,19 @@ background-color: #ac29fe;
 color: #fff;
 /* color: #000000; */
 /* box-shadow: 0 0 0 3px #ac29fe inset; */
-box-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+/* box-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202); */
 
 }
 
 button:hover{
+background-color: #ac29fe;
 background-color: #dba5fc;
 box-shadow: 0 0 80px rgba(172, 83, 186, 0.976), 0 0 32px rgb(148, 94, 182);
 
+
 color: #000;
+color: #330351;
+
     /* transform: translateY(-2px); */
     transition: color .15s ease-in,background-color .15s ease-in,border-color .15s ease-in,box-shadow .15s ease-in;
 }
@@ -626,11 +630,71 @@ color: #000;
     
 
 
-    /* svg #a0e0cd86-b941-48b5-9b90-57a3fa3d34f6{
 
-    }  */
+    /* svg #a0e0cd86-b941-48b5-9b90-57a3fa3d34f6{*/
+    .bigbox2{
+        display: flex;
+        /* position: absolute;  */
+        width: 90vw;
+        height: 100vh;
+        /* background-color:yellow; */
+        margin: 17rem auto 0;
+        /* padding-top: 2rem; */
+    }
 
-}
+    .innerbox2{
+        /* position: absolute; */
+        display: flex; 
+        width: 90%;
+        height: 90%;
+        /* background-color:black; */
+        margin: 0 auto;
+        /* padding: 5px auto; */
+    }
+
+    .svgbox2{
+        flex: 2;
+        /* background-color:brown; */
+        margin: 0 auto;
+
+        background-image: url("svg\ files/Global BLockchain network.svg");
+        z-index: -1;
+        background-repeat: no-repeat;
+        position:relative;
+        right: 70px;
+        flex: 2;
+        margin: 0 auto;
+    }
+
+    .textbox2{
+        flex: 2;
+        /* background-color:lime; */
+        margin: 0 auto;
+    }
+    .textbox2 h1{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 900;
+        font-size: 3rem;
+        line-height: 1;
+        padding-top: 45px;
+        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+        padding: 50px 50px;
+        /* background-color:blue; */
+        font-size: 2.5rem;
+        /* font-weight: 500; */
+    }
+
+    .textbox2 h4{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        /* margin-top: 2rem; */
+        padding: 0px 50px;
+        text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+    }
+
+}  
+
+
 
 
 /* For Tablet Screens */
