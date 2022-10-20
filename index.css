@@ -794,7 +794,7 @@ transition: all .5s; */
     
     .tools1{
         display: flex;
-        gap: 1.8rem;
+        gap: 1rem;
     }
     
     .tools2{
@@ -804,7 +804,7 @@ transition: all .5s; */
     }
     
     .svgtools{
-        width: 5.5rem;
+        width: 6.5rem;
         height: 8rem;
         background-color: #00000080;
         border-radius: 5px;
