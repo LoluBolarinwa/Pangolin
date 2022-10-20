@@ -750,7 +750,7 @@ transition: all .5s; */
         align-items:center;
         text-align: center;
         justify-content: center;
-        width: 90vw;
+        width: 100vw;
         height: 70vh;
         /* background-color:brown; */
         margin: 10px auto;
@@ -760,6 +760,8 @@ transition: all .5s; */
         width: 80vw;
         height: 90%;
         margin: 10px auto;
+        /* background-color:brown; */
+
     }
     
     .bigger-tools h1{
@@ -784,8 +786,12 @@ transition: all .5s; */
     }
     
     .inner-tools{
-        padding-left: 0rem;
+        padding: 0rem;
         flex: 2.5;
+        align-items:center;
+        /* text-align: center; */
+        margin: 0 auto;
+        /* justify-content: center; */
         /* flex: 3; */
         /* background-color: #00ffaa; */
         height: 90%;
@@ -794,13 +800,16 @@ transition: all .5s; */
     
     .tools1{
         display: flex;
+        margin: 0 auto;
         gap: 1rem;
+        /* background-color: #00ffaa; */
+
     }
     
     .tools2{
         display: flex;
         margin-top: 1.9rem;
-        gap: 1.9rem;
+        gap: 1rem;
     }
     
     .svgtools{
