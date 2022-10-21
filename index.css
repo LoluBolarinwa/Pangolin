@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    /* outline: 1px solid limegreen !important; */
+    outline: 1px solid limegreen !important;
 
 }
 
@@ -686,9 +686,9 @@ transition: all .5s; */
         display: flex;
         /* position: absolute;  */
         width: 90vw;
-        height: 70vh;
+        height: 90vh;
         /* background-color:yellow; */
-        margin: 10rem auto 0;
+        margin: 15rem auto 0;
         /* padding-top: 2rem; */
     }
 
@@ -761,7 +761,6 @@ transition: all .5s; */
         height: 90%;
         margin: 10px auto;
         /* background-color:brown; */
-
     }
     
     .bigger-tools h1{
