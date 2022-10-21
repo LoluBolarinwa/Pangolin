@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -813,6 +813,7 @@ transition: all .5s; */
     }
     
     .svgtools{
+        /* font-size: 1rem; */
         width: 6.5rem;
         height: 8rem;
         background-color: #00000080;
