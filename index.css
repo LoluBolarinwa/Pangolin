@@ -5,7 +5,7 @@
     padding: 0;
     box-sizing: border-box;
     /* color: #330351; */
-    outline: 1px solid limegreen !important;
+    /* outline: 1px solid limegreen !important; */
 
 }
 
@@ -821,9 +821,9 @@ transition: all .5s; */
         /* text-shadow: 0 0 80px rgba(2, 27, 61, 0.976), 0 0 32px rgb(2, 26, 85); */
     }    
 
-    .svgtoools img{
+    .svgtools img{
         width:100%;
-        height:60%;
+        height:75%;
     }
 }  
 
