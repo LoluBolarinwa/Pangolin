@@ -833,7 +833,7 @@ transition: all .5s; */
     .carouselbox{
         width: 90vw;
         height: 30vh;
-        background-color:greenyellow;
+        /* background-color:greenyellow; */
         margin: 0 auto;
         margin-top: 2rem;
         display: flex; 
@@ -848,9 +848,11 @@ transition: all .5s; */
         justify-content: center;
         width: 95%;
         height: 98%;
-        background-color:black;
+        /* background-color:black; */
         margin: 0 auto;
         /* padding: 5px auto; */
+
+        overflow-x: auto;
     }
     
     .carouselcard{
@@ -869,6 +871,7 @@ transition: all .5s; */
         outline: 1px solid #00ffaa;
         border-radius: 20px;
     }
+    
     
     .carouselsvg img{
         /* flex-direction: column; */
