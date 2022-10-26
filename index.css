@@ -855,7 +855,7 @@ transition: all .5s; */
         /* background-color:black; */
         margin: 0 auto;
         /* padding: 5px auto; */
-
+        
         overflow-x: auto;
     }
     
@@ -869,13 +869,15 @@ transition: all .5s; */
         /* flex: 2; */
         /* background-color:lime; */
         /* margin: 0 auto; */
-        /* width:  95%; */
+        min-width:  45%;
         height: 98%;
-        /* background-color:violet; */
         outline: 1px solid #00ffaa;
         border-radius: 20px;
     }
     
+    .carouselcard:first-child{
+        margin-left: 20rem;        
+    }
     
     .carouselsvg img{
         /* flex-direction: column; */
