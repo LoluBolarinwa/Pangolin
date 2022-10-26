@@ -418,7 +418,7 @@ color: #330351;
 .carouselbox{
     width: 90vw;
     height: 50vh;
-    background-color:greenyellow;
+    /* background-color:greenyellow; */
     margin: 0 auto;
     margin-top: 2rem;
     display: flex; 
@@ -840,6 +840,10 @@ transition: all .5s; */
         align-items: center;
         justify-content: center;
     }
+
+    .carouselbox::-webkit-scrollbar{
+        width: 0px;
+    }
     
     .carousel{
         /* position: absolute; */
@@ -861,7 +865,7 @@ transition: all .5s; */
         flex-direction: column;
         align-items:center;
         /* gap: 1.5rem; */
-        margin: 0 1rem;
+        margin: 0 0.4rem;
         /* flex: 2; */
         /* background-color:lime; */
         /* margin: 0 auto; */
@@ -1131,5 +1135,67 @@ transition: all .5s; */
         height:80%;
     }    
     
+    .carouselbox{
+        width: 90vw;
+        height: 50vh;
+        /* background-color:greenyellow; */
+        margin: 0 auto;
+        margin-top: 2rem;
+        display: flex; 
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .carousel{
+        /* position: absolute; */
+        display: flex; 
+        align-items:center;
+        justify-content: center;
+        width: 95%;
+        height: 98%;
+        /* background-color:black; */
+        margin: 0 auto;
+        /* padding: 5px auto; */
+    }
+    
+    .carouselcard{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items:center;
+        /* gap: 1.5rem; */
+        margin: 0 1rem;
+        /* flex: 2; */
+        /* background-color:lime; */
+        /* margin: 0 auto; */
+        /* width: 95%; */
+        height: 98%;
+        /* background-color:violet; */
+        outline: 1px solid #00ffaa;
+        border-radius: 20px;
+    }
+    
+    .carouselsvg img{
+        /* flex-direction: column; */
+        /* color: #ac29fe; */
+        width: 250px;
+        height: 140px;
+        /* background-color: #000; */
+        /* height: fit-content; */
+        /* cursor: pointer; */
+    }
+    
+    .carouselcard h3{
+        text-align: justify;
+        margin: 1rem 0;
+    }
+    
+    .carouselcard p{
+        text-align: center;
+        margin:0 1rem;
+    
+    }
+    
+
 }
 /* and (max-width:1023px){ */
