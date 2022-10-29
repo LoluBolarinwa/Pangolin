@@ -458,6 +458,7 @@ color: #330351;
 .carouselsvg img{
     /* flex-direction: column; */
     /* color: #ac29fe; */
+    padding-top: 10px;
     width: 250px;
     height: 140px;
     /* background-color: #000; */
@@ -882,8 +883,9 @@ transition: all .5s; */
     .carouselsvg img{
         /* flex-direction: column; */
         /* color: #ac29fe; */
-        width: 50px;
-        height: 40px;
+        padding-top: 10px;
+        width: 90px;
+        height: 90px;
         /* background-color: #000; */
         /* background-color: #000; */
         /* height: fit-content; */
@@ -892,12 +894,12 @@ transition: all .5s; */
     
     .carouselcard h3{
         text-align: justify;
-        margin: 1rem 0;
+        margin: .5rem 0 .5rem;
     }
     
     .carouselcard p{
         text-align: center;
-        margin:0 1rem;
+        margin:0 .5rem;
     
     }
     
