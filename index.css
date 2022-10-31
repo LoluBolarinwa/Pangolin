@@ -513,6 +513,19 @@ color: #330351;
     /* padding: 5px auto; */
 }
 
+.sponsors-middle{
+    display: flex;
+    flex: 1.3;
+    align-items:center;
+    justify-content: center;
+    width: 75%;
+    height: 95%;
+    /* background-color:black; */
+    margin: 0 auto;
+    padding: 0 3rem;
+    /* padding: 5px auto; */
+}
+
 .projects{
     display: flex;
     align-items:center;
@@ -885,16 +898,15 @@ transition: all .5s; */
    
     .sponsorDiv{
         width: 90vw;
-        height: 60vh;
+        height: 40vh;
         /* background-color:purple; */
         /* padding-top: 2rem;    */
-        margin: 2rem auto 25rem;
+        margin: 0rem auto 25rem;
         display: flex; 
         flex-direction: column; 
         align-items: center;
         justify-content: center;
         padding-bottom: 2rem;
-        outline: 1px solid limegreen !important;
         outline: 1px solid #00ffaa !important;
         border-radius: 15px;
     
@@ -909,12 +921,27 @@ transition: all .5s; */
         flex: 1.3;
         align-items:center;
         justify-content: center;
-        width: 75%;
-        height: 95%;
+        width: 100%;
+        height: 100%;
+        padding-bottom: 0rem;
         /* background-color:black; */
         margin: 0 auto;
         /* padding: 5px auto; */
     }
+
+    .sponsors-middle{
+        display: flex;
+        flex: 1;
+        align-items:center;
+        justify-content: center;
+        width: 75%;
+        height: 95%;
+        /* background-color:black; */
+        margin: 0 auto;
+        padding: 0 0rem;
+        /* padding: 5px auto; */
+    }
+    
     
     .projects{
         display: flex;
@@ -923,7 +950,7 @@ transition: all .5s; */
         flex-direction: column;
         /* flex:1.25; */
         width: 10rem;
-        height: 80%;
+        height: 100%;
         /* background-color:blue; */
     }
     
@@ -942,8 +969,8 @@ transition: all .5s; */
     
     .css-ev1hfs{
         flex-direction: column;
-        width: 50px;
-        height: 40px;
+        width: 35px;
+        height: 30px;
         cursor: pointer;
         -webkit-transition: all 0.2s ease;
         transition: all 0.2s ease;
@@ -959,8 +986,7 @@ transition: all .5s; */
         /* font-size: 5px; */
         font-family: 'Montserrat', sans-serif;
         margin-top: 2px;
-        font-weight: 800;
-        font-size: 0.7rem;
+        font-size: 0.4rem;
         letter-spacing: 1.2px;
         text-transform: uppercase;
         /* text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202); */
