@@ -835,11 +835,6 @@ transition: all .5s; */
         width: 90vw;
         height: 30vh;
         /* background-color:greenyellow; */
-        margin: 0 auto;
-        margin-top: 2rem;
-        display: flex; 
-        align-items: center;
-        justify-content: center;
     }
 
     .carouselbox::-webkit-scrollbar{
@@ -1140,63 +1135,36 @@ transition: all .5s; */
     }    
     
     .carouselbox{
-        width: 90vw;
-        height: 50vh;
-        background-color:greenyellow;
-        margin: 0 auto;
-        margin-top: 2rem;
-        display: flex; 
-        align-items: center;
-        justify-content: center;
+        width: 100vw;
+        height: 25vh;
+        /* background-color:greenyellow; */
     }
     
     .carousel{
-        /* position: absolute; */
-        display: flex; 
-        align-items:center;
-        justify-content: center;
         width: 95%;
-        height: 98%;
-        background-color:black;
-        margin: 0 auto;
-        /* padding: 5px auto; */
+        height: 95%;
+        /* background-color:black; */
     }
     
     .carouselcard{
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        align-items:center;
-        /* gap: 1.5rem; */
-        margin: 0 1rem;
-        /* flex: 2; */
-        background-color:lime;
-        /* margin: 0 auto; */
-        min-width: 45%;
+        margin: 0 .3rem;
+        min-width: 20%;
         height: 98%;
         /* background-color:violet; */
-        outline: 1px solid #00ffaa;
-        border-radius: 20px;
     }
     
     .carouselsvg img{
-        /* flex-direction: column; */
-        /* color: #ac29fe; */
-        width: 250px;
-        height: 140px;
-        /* background-color: #000; */
-        /* height: fit-content; */
-        /* cursor: pointer; */
+        width: 220px;
+        height: 120px;
     }
     
     .carouselcard h3{
-        text-align: justify;
-        margin: 1rem 0;
+        margin: .7rem 0;
     }
     
     .carouselcard p{
         text-align: center;
-        margin:0 1rem;
+        margin:0 .5rem;
     
     }
     
