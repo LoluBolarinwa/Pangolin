@@ -481,7 +481,7 @@ color: #330351;
 
 
 .sponsorDiv{
-    width: 70vw;
+    width: 60vw;
     height: 60vh;
     /* background-color:purple; */
     /* padding-top: 2rem;    */
@@ -492,6 +492,9 @@ color: #330351;
     justify-content: center;
     padding-bottom: 2rem;
     outline: 1px solid limegreen !important;
+    outline: 1px solid #00ffaa !important;
+    border-radius: 15px;
+
 }
 
 .sponsorDiv h2{
@@ -521,6 +524,11 @@ color: #330351;
     /* background-color:blue; */
 }
 
+.projects:hover{
+    text-shadow: 0 0 8px rgba(200, 138, 209, 0.976), 0 0 2px rgb(173, 125, 202);
+    -webkit-transition: all 0.2s ease;
+}
+
 /* .projects2{
     width: 10rem;
     align-items:center;
@@ -537,6 +545,11 @@ color: #330351;
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
     /* text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202); */
+}
+
+.css-ev1hfs:hover{
+    text-shadow: 0 0 80px rgba(200, 138, 209, 0.976), 0 0 32px rgb(173, 125, 202);
+    -webkit-transition: all 0.2s ease;
 }
 
 .projects label{
@@ -828,9 +841,6 @@ transition: all .5s; */
         height:75%;
     }
 
-
-
-
     .carouselbox{
         width: 90vw;
         height: 30vh;
@@ -842,33 +852,17 @@ transition: all .5s; */
     }
     
     .carousel{
-        /* position: absolute; */
-        display: flex; 
-        align-items:center;
-        justify-content: center;
         width: 95%;
         height: 98%;
         /* background-color:black; */
-        margin: 0 auto;
-        /* padding: 5px auto; */
-        
         overflow-x: auto;
     }
     
     .carouselcard{
-        flex: 1;
-        display: flex;
-        flex-direction: column;
-        align-items:center;
-        /* gap: 1.5rem; */
         margin: 0 0.4rem;
-        /* flex: 2; */
         /* background-color:lime; */
-        /* margin: 0 auto; */
         min-width:  45%;
         height: 98%;
-        outline: 1px solid #00ffaa;
-        border-radius: 20px;
     }
     
     .carouselcard:first-child{
@@ -876,26 +870,17 @@ transition: all .5s; */
     }
     
     .carouselsvg img{
-        /* flex-direction: column; */
-        /* color: #ac29fe; */
         padding-top: 10px;
         width: 90px;
         height: 90px;
-        /* background-color: #000; */
-        /* background-color: #000; */
-        /* height: fit-content; */
-        /* cursor: pointer; */
     }
     
     .carouselcard h3{
-        text-align: justify;
         margin: .5rem 0 .5rem;
     }
     
     .carouselcard p{
-        text-align: center;
         margin:0 .5rem;
-    
     }
     
 }  
